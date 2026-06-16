@@ -11,6 +11,4 @@ The Dashboard helps in understanding the Sales Analytics with following segments
 ## Tools Used 
 -POWER BI
 -Ms Excel 
-
-##Tools Used
 -Laptop
