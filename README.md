@@ -1,6 +1,6 @@
 # STORE SALES ANALYTICS PROJECT
 
-##Overview of the project 
+#Overview of the project 
 This project gives the business analytics and its visualization built using POWER BI Desktop.
 
 The Dashboard helps in understanding the Sales Analytics with following segments
